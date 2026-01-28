@@ -7,3 +7,12 @@ I currently read this article: [Software Engineer interviews: Everything you nee
 This article provides many practical suggestions and tips for applying to a software engineering (SWE) job. It explains not only how to prepare for coding interviews, but also how to think about system design questions. 
 
 The most important idea in this article is that it gives me a clear roadmap for the interview process. This can help my interview preparation to be more structured. At the same time, it emphasizes good habits such as practicing with real problems and understanding the underlying concepts instead of just memorizing solutions. Therefore, I think this guide is especially helpful for students and early-career developers who want to enter the software industry.
+
+---
+
+### 💬 Reader Comment – Samay Dhawan
+
+I found this article especially insightful because it clearly explains the importance of version control workflows in collaborative software development. The distinction between centralized and forking workflows helped me better understand how open-source projects scale while maintaining code quality.
+
+Thanks for sharing this resource — it was a great read!
+
